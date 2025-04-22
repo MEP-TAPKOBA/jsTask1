@@ -1,0 +1,26 @@
+[
+    {
+        "userID": 6,
+        "times": [ { "userID": 1, "time": 395 }, { "userID": 2, "time": 301 }, { "userID": 3, "time": 817 } ]
+    },
+    {
+        "userID": 2,
+        "times": [ { "userID": 3, "time": 904 }, { "userID": 1, "time": 409 }, { "userID": 6, "time": 2 } ]
+    },
+    {
+        "userID": 5,
+        "times": [ { "userID": 4, "time": 758 }, { "userID": 2, "time": 339 }, { "userID": 6, "time": 760 } ]
+    },
+    {
+        "userID": 3,
+        "times": [ { "userID": 4, "time": 360 }, { "userID": 5, "time": 853 }, { "userID": 1, "time": 39 } ]
+    },
+    {
+        "userID": 1,
+        "times": [ { "userID": 2, "time": 84 }, { "userID": 5, "time": 913 }, { "userID": 4, "time": 950 } ]
+    },
+    {
+        "userID": 4,
+        "times": [ { "userID": 5, "time": 261 }, { "userID": 1, "time": 565 }, { "userID": 2, "time": 656 } ]
+    }
+]
